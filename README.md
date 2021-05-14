@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**majk-p/majk-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michał, currently building great software with [Ocado Technology](http://www.ocadotechnology.com/).
 
-Here are some ideas to get you started:
+### OSS work 🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm maintainer for 
+
+- https://github.com/ocadotechnology/sttp-oauth2
+- https://github.com/kubukoz/better-tostring
+- https://github.com/pitgull/pitgull
+
+Plus some random help with other Scala OSS projects
+
+### How to reach me 📫
+
+You can chat with me on Keybase: https://keybase.io/majkp 
+More contact information is always on https://michalp.net/
