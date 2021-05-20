@@ -7,7 +7,7 @@ My name is Michał, currently building great software with [Ocado Technology](ht
 I'm maintainer for 
 
 - https://github.com/ocadotechnology/sttp-oauth2
-- https://github.com/kubukoz/better-tostring
+- https://github.com/polyvariant/better-tostring
 - https://github.com/pitgull/pitgull
 
 Plus some random help with other Scala OSS projects
