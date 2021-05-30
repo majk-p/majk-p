@@ -8,7 +8,7 @@ I'm maintainer for
 
 - https://github.com/ocadotechnology/sttp-oauth2
 - https://github.com/polyvariant/better-tostring
-- https://github.com/pitgull/pitgull
+- https://github.com/polyvariant/pitgull
 
 Plus some random help with other Scala OSS projects
 
