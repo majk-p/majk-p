@@ -17,3 +17,5 @@ Plus some random help with other Scala OSS projects
 You can chat with me on Keybase: https://keybase.io/majkp 
 
 More contact information is always on https://michalp.net/
+
+Check out my posts at https://blog.michalp.net
