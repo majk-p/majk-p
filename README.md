@@ -7,6 +7,7 @@ My name is Michał, currently building great software with [Ocado Technology](ht
 I'm maintainer for 
 
 - https://github.com/ocadotechnology/sttp-oauth2
+- https://github.com/ocadotechnology/pass4s
 - https://github.com/polyvariant/better-tostring
 - https://github.com/polyvariant/pitgull
 
