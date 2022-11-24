@@ -20,3 +20,5 @@ You can chat with me on Keybase: https://keybase.io/majkp
 More contact information is always on https://michalp.net/
 
 Check out my posts at https://blog.michalp.net
+
+Follow me on <a rel="me" href="https://hostux.social/@majkp">Mastodon</a>
