@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Michał, currently building great software with [Ocado Technology](http://www.ocadotechnology.com/).
+My name is Michał
 
 ### OSS work 🔭
 
@@ -11,14 +11,10 @@ I'm maintainer for
 - https://github.com/polyvariant/better-tostring
 - https://github.com/polyvariant/pitgull
 
-Plus some random help with other Scala OSS projects
-
 ### How to reach me 📫
 
-You can chat with me on Keybase: https://keybase.io/majkp 
+Follow me on <a rel="me" href="https://hostux.social/@majkp">Mastodon</a> 
 
-More contact information is always on https://michal.pawlik.dev/
+Website https://michal.pawlik.dev/
 
-Check out my posts at https://blog.michal.pawlik.dev
-
-Follow me on <a rel="me" href="https://hostux.social/@majkp">Mastodon</a>
+Blog https://blog.michal.pawlik.dev
