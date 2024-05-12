@@ -4,7 +4,7 @@ My name is Michał
 
 ### OSS work 🔭
 
-- https://github.com/ocadotechnology/sttp-oauth2 ex-maintainer
+- https://github.com/polyvariant/sttp-oauth2 maintainer
 - https://github.com/ocadotechnology/pass4s ex-maintainer
 - https://github.com/polyvariant/better-tostring
 - https://github.com/polyvariant/pitgull
