@@ -8,7 +8,6 @@ My name is Michał
 - https://github.com/siriusxm/snapshot4s maintainer
 - https://github.com/ocadotechnology/pass4s ex-maintainer
 - https://github.com/polyvariant/better-tostring
-- https://github.com/polyvariant/pitgull
 
 ### How to reach me 📫
 
